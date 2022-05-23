@@ -399,7 +399,7 @@ void generateMsg()
 #if 0   
         //非控制在环
         generatePkgEgoData1();
-#elif 1
+#elif 0
         //控制在环(动力学模型挂载外部)
         generatePkgEgoData2();
 #else
