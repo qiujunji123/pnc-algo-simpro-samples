@@ -109,8 +109,8 @@ double computeAcc()
 
     float accelTgt          = accelTgtDist + accelTgtSpeed;
     // std::cout << "accelTgt=" << accelTgt << std::endl;
-    printf ("qjj================")
-    printf("accelTgtSpeed=%f,accelTgtDist=%f,mOwnObject.sObjectState.sSpeed.u8X=%f,mOwnObject.sObjectState.sSpeed.u8Y=%f",accelTgtSpeed,accelTgtDist,mOwnObject.sObjectState.sSpeed.u8X,mOwnObject.sObjectState.sSpeed.u8Y);
+    // printf ("qjj================")
+    // printf("accelTgtSpeed=%f,accelTgtDist=%f,mOwnObject.sObjectState.sSpeed.u8X=%f,mOwnObject.sObjectState.sSpeed.u8Y=%f",accelTgtSpeed,accelTgtDist,mOwnObject.sObjectState.sSpeed.u8X,mOwnObject.sObjectState.sSpeed.u8Y);
     return accelTgt;
 }
 
